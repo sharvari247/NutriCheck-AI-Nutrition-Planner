@@ -1,0 +1,1 @@
+{"user": "test", "dislike": ["beef", "chicken", "pork", "curry", "lamb", "mutton"]}
